@@ -1,4 +1,4 @@
-## Go Cidas
+## Cidas
 
 Official golang implementation of the Cidas protocol.
 
@@ -8,7 +8,6 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cidas/cidas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Automated builds are available for stable releases and the unstable master branch.
-Binary archives are published at https://cids.cidas.io/downloads/.
 
 ## Building the source
 
